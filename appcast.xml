@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MidiControl</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 30 Jan 2024 19:33:15 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Romankivs/MidiControlApp/releases/download/v1.0/MidiControl-Installer.dmg" length="1175204" type="application/octet-stream" sparkle:edSignature="MpD++L+NgYytGztPhL7mMW3e/8XTwAsfpRa2eAjmd5sO+9XO1mUsEQ09GbdOLncPCDhZFEJXktxlCNp/8BHLAw=="/>
+        </item>
+    </channel>
+</rss>
