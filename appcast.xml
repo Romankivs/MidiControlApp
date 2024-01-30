@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Romankivs/MidiControlApp/releases/download/v1.1/MidiControl-Installer.dmg" length="1175234" type="application/octet-stream" sparkle:edSignature="do3SOjegedou5cPe9+krImOdM2hDnt0vycWPAtHeJEDxeaMxbH5uE0f/fHJKx4nu1U2PvrAawIvg7LXTj34jAw=="/>
+            <enclosure url="https://github.com/Romankivs/MidiControl/releases/download/v1.1/MidiControl-Installer.dmg " length="1175242" type="application/octet-stream" sparkle:edSignature="gkDcOTgB1au1+ZQR/SLTlrKDBxz61tItbSSvzvbz2E5TavVp56yPV4YN1vwaq4zV7nBTHUbcaq7LzzvjaXwyBQ=="/>
         </item>
     </channel>
 </rss>
