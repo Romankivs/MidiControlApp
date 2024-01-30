@@ -3,12 +3,12 @@
     <channel>
         <title>MidiControl</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Tue, 30 Jan 2024 19:33:15 +0200</pubDate>
+            <title>1.1</title>
+            <pubDate>Tue, 30 Jan 2024 19:58:08 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Romankivs/MidiControl/releases/download/v1.1/MidiControl-Installer.dmg " length="1175242" type="application/octet-stream" sparkle:edSignature="gkDcOTgB1au1+ZQR/SLTlrKDBxz61tItbSSvzvbz2E5TavVp56yPV4YN1vwaq4zV7nBTHUbcaq7LzzvjaXwyBQ=="/>
+            <enclosure url="https://romankivs.github.io/MidiControlApp/MidiControl-Installer.dmg" length="1175242" type="application/octet-stream" sparkle:edSignature="gkDcOTgB1au1+ZQR/SLTlrKDBxz61tItbSSvzvbz2E5TavVp56yPV4YN1vwaq4zV7nBTHUbcaq7LzzvjaXwyBQ=="/>
         </item>
     </channel>
 </rss>
